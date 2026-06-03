@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=T.%20Sujitha%20Mary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Data%20Scientist%20%26%20AI%20Engineer%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20Data%20Analytics&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=T.%20Sujitha%20Mary&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Aspiring%20Data%20Scientist%20%26%20AI%20Engineer%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20Data%20Analytics&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Sujitha+Mary+%F0%9F%91%8B;Aspiring+Data+Scientist+%7C+AI+Engineer;Machine+Learning+%2B+Deep+Learning+Enthusiast;Building+AI-Driven+Solutions+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Hi+there%2C+I%27m+Sujitha+Mary+%F0%9F%91%8B;Aspiring+Data+Scientist+%7C+AI+Engineer;Machine+Learning+%2B+Deep+Learning+Enthusiast;Building+AI-Driven+Solutions+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,15 +10,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sujitha-mary-4aa475271">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   <a href="mailto:sujitha2607@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   <a href="https://github.com/sujithamary-2607">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sujithamary-2607&style=flat-square&color=70a5fd&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sujithamary-2607&amp;style=flat-square&amp;color=70a5fd&amp;label=Profile+Views"/>
 </div>
 
 ---
@@ -91,10 +91,10 @@ class SujithaMary:
 
 <div align="center">
   <a href="https://github.com/sujithamary-2607">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujithamary-2607&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sujithamary-2607&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
   </a>
   <a href="https://github.com/sujithamary-2607">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithamary-2607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithamary-2607&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
   </a>
 </div>
 
@@ -103,7 +103,7 @@ class SujithaMary:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sujithamary-2607&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=sujithamary-2607&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -111,7 +111,7 @@ class SujithaMary:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujithamary-2607&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujithamary-2607&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -119,7 +119,7 @@ class SujithaMary:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujithamary-2607&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sujithamary-2607&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4"/>
 </div>
 
 ---
@@ -192,4 +192,4 @@ class SujithaMary:
   <b>— T. Sujitha Mary</b>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
